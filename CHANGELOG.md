@@ -1,3 +1,6 @@
+# Version 1.0.2
+This adds the latest seat goodies such as the abstract seat plugin extension and the appearance in the version overview of seat.
+
 # Version 1.0.1
 This version is a fix for logout job. It was bad designed as it resulted in a closure exception. This fix was provided by @warlof. Thank you very much.
 * Added Style CI to repo.
