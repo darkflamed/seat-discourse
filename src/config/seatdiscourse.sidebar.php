@@ -8,7 +8,8 @@
 
 return [
     'seatdiscorse' => [
-        'name' => 'SLYCE Forums',
+        'name' => 'SeAT Discourse',
+        'label' => 'SLYCE Forums',
         'icon' => 'fa-comments-o',
         'route_segment' => 'sso',
         'entries' => [
